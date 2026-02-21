@@ -1,8 +1,8 @@
-\#Variables y Operadores
+# Variables y Operadores
 
 
 
-\##¿Para qué se utilizan los operadores lógicos en programación?
+#### ¿Para qué se utilizan los operadores lógicos en programación?
 
 
 
@@ -10,7 +10,7 @@ Los operadores lógicos se utilizan para evaluar condiciones que se le da a un p
 
 
 
-\##¿Por qué es importante declarar correctamente el tipo de dato de una variable?
+#### ¿Por qué es importante declarar correctamente el tipo de dato de una variable?
 
 
 
@@ -18,11 +18,11 @@ Es importante porque así el compilador entiende que un dato es un numero, un ca
 
 
 
-\##Estructuras de control utilizadas
+## Estructuras de control utilizadas
 
 
 
-\###Clasificación de Edad
+##### Clasificación de Edad
 
 
 
@@ -30,7 +30,7 @@ En este programa utilice el if-else porque me pedía validar algunas edades y co
 
 
 
-\###Día de la Semana
+##### Día de la Semana
 
 
 
@@ -38,7 +38,7 @@ En este programa utilice el switch porque la variable es solo 1 y las condicione
 
 
 
-\### Verificación de Acceso
+##### Verificación de Acceso
 
 
 
